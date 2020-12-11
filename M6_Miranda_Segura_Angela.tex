@@ -12,16 +12,16 @@
 \usepackage{amsmath}
 
 \author{Ángela Miranda Segura}
-\title{bla bla bla bla}
+\title{Chlorophyll: its structure, absorption and importance in plants}
 \begin{document}
 \maketitle
 \begin{minipage}{4cm}
 	\textbf{Keywords:}
-	Chlorophyll, function, photosynthesis.
+	Chlorophyll, function, photosynthesis, plants.
 \end{minipage}
 \begin{minipage}{7cm}
 	\begin{abstract}
-		hola
+		Chlorophyll is any of several related green pigments found in the mesosomes of cyanobacteria and in the chloroplasts of algae and plants. Chlorophyll is essential in photosynthesis, allowing plants to absorb energy from light. This paper deals with the estimation of chlorophyly in plant extracts by application of absorption coefficients of the isolated solid chlorophyll components. 
 	\end{abstract}
 \end{minipage}
 
@@ -35,8 +35,8 @@
 	
 	\subsection{The chlorophyll metabolic\\ pathway and its regulation} 
 	Chlorophyll biosynthesis can be classified into three distinct phases (Figure 1). The first phase encompasses the synthesis of chlo-rophyll a from glutamate. Figure 1 depicts the chlorophyll a biosynthetic pathway such that the order of enzymatic steps involving divinyl protochlorophyllide a, \\vinyl reductase, and protochlorophyllide oxidoreductase differs from that in previously proposed schematics describing this pathway. We made this revision on the basis of recent findings describing the substrate specificity of divinyl protochlorophyllide a vinyl reductase. The second phase includes the interconversion of chlorophyll a and chlo-rophyll b, and is also known as the chlorophyll cycle \cite{Rudiger2002}. In this cycle, the in vivo substrate of chlorophyllide a oxygenase (CAO) remains unidentified, although in vitro experiments have shown that chlorophyllide a, rather than chlorophyll a, is a substrate of CAO \cite{Oster2000}. The third and final phase of chlorophyll metabolism involves the degradation of chlorophyll a \cite{Takamiya2000}. This degradation pathway has been traced from chlorophyll a through to the non-fluorescent chlorophyll catabolite (NCC). Clarification is still necessary, however, to determine whether NCC is further degraded to monopyrroles or other smaller molecules. A further question remains as to whether degraded chlorophyll is recycled as a nitrogen resource for building other macromolecules. Although most of the genes that encode the enzymes involved in chlorophyll metabolism have been identified, those encoding some key enzymes such as Mg-dechelatase are still to be identified \cite{Tanaka2006}
-	\includegraphics{figura2}
-	
+
+	\twocolumn
 \section{State of art}
 	Results of recent studies have better defined the chlorophyll metabolic pathway,\\ specifically by identifying the majority of the genes that are involved in the process. These recent advances have enabled significant progress toward understanding the me-chanisms that regulate chlorophyll meta-bolism. Regulation of the levels of chlorophyll and its derivatives is extremely important because these molecules are strong photosensitizers; that is, when present in excess, they will generate reactive oxygen species (ROS). ROS, in turn, promote\\ growth retardation or cell death. Therefore, to maintain healthy growth, plants must finely control the entire chlorophyll metabolic process.\\
 	
@@ -45,17 +45,47 @@
 \section{Materials and methods}
 	It has been studied the absorption of light by chlorophyl solutions using different methods which provide different results due to artifacts and teh susbtantial effect of solvent on the coefficinents. \\
 	
-	In Table 1, columns 2 and 3, are given the k values for the same preparation of chlotophylls a and b in aqueous acetone (20ml of distilled water per 80ml of redistilled anhydrous C.P. acetone). To bring the chlorophyll into solution, 2ml of acetone were used, then 0.5ml of water. The sample was the made to volumen. In column 7 is given the absorption of an Avena extract in this solvent \cite{Mackinney}.
+	In Table 1, columns 2 and 3, are given the k values for the same preparation of chlotophylls a and b in aqueous acetone (20ml of distilled water per 80ml of redistilled anhydrous C.P. acetone). To bring the chlorophyll into solution, 2ml of acetone were used, then 0.5ml of water. The sample was the made to volumen. In column 7 is given the absorption of an Avena extract in this solvent \cite{Mackinney}.\\
 	
-	\restoregeometry
+	k, the specific absorption coefficient, as defined by Brode\cite{Brodc1939}, from $logI_0/I=kcd$\\
+	
+	The calculated contributions are determined from Avena values for kc from equations set up from 6630 and 6450$\textup{\r{A}}$; namely
+	\begin{equation}
+	82.04*C_a9.27*C_b=0.341
+	\end{equation}
+	\begin{equation}
+	16.75*C_a45.6*C_b=0.131
+	\end{equation}
+	\cite{Mackinney}
+	
+
+\section{Results}
+	
+	
+\section{Discussion}
+\section{Conclusion}
+\restoregeometry
+\bibliography{library}
+
+
+\newpage
+\section{Annexes}
+\begin{figure}
+	\centering
+	\includegraphics{figura4}
+	\caption{Chlorophyll metabolic pathway and its relevance to various physiological phenomena \cite{Tanaka2006}} 
+	\label{fig3}
+\end{figure}
+
+\begin{table}
 	\begin{longtable}{|c|c|c|c|c|c|c|}
 		\hline
-		\multirow{2}{*}{wavelength} & 
-		\multicolumn{2}{c}{chlorophyll} & 
-		\multicolumn{3}{c}{calculated contribution} & 
-		\multirow{2}{*}{avena experimental kc} \\
+		\multirow{2}{*}{$\lambda$} & 
+		\multicolumn{2}{c}{Chlorophyll} \vline & 
+		\multicolumn{3}{c}{Calculated contribution} \vline & 
+		\multirow{2}{*}{Avena experimental kc} \\ \cline{2-6}
 		& $k_a^*$ & $k_b$ & $k_aC_a$ & $k_bC_b$ & Combined & \\ \hline
-		6800 & 11.49 &&0.046 &&&0.049 \\
+		6800 & 11.49 & & 0.046 & & & 0.049 \\
 		6700 & 56.75 & 3.39 & 0.237 & 0.005 & 0.242 & 0.231\\
 		6650 & 80.91 & 6.55 & 0.324 & 0.009 & 0.333 & 0.330\\
 		6630 & 82.04 & 9.27 & 0.328 & 0.013 & 0.341 & 0.341\\
@@ -70,30 +100,24 @@
 		6100 & 15.17 & 9.17 & 0.061 & 0.013 & 0.074 & 0.073\\
 		6000 & 10.12 & 11.14 & 0.040 & 0.016 & 0.056 & 0.057\\\hline
 	\end{longtable}
-	\cite{Mackinney}
-	
-	\twocolumn
-\section{Results}
-	k, the specific absorption coefficient, as definde by Brode, from $logI_0/I=kcd$\\
-	
-	The calculated contributions are determined from Avena values for kc from equuations set up from 6630 and 6450A; namely
-	\begin{equation}
-	82.04*C_a9.27*C_b=0.341
-	\end{equation}
-	\begin{equation}
-	16.75*C_a45.6*C_b=0.131
-	\end{equation}
-	\cite{Mackinney}
-	
-\section{Discussion}
-\section{Conclusion}
-\section{References}
-\bibliography{proyecto latex}
+	\caption{k, the specific absorption coefficients \cite{Mackinney}}
+	\label{table1}
+\end{table}
 
-\restoregeometry
-\section{annexes}
-\includegraphics{figura1} \cite{Matile1999}\\
-\includegraphics{figura2}
+\begin{figure}
+	\centering
+	\includegraphics{figura1}
+	\caption{Structuresofintermediary andﬁnalChlcatabolites arrangedaccordingtothe“pheophor-bide a oxygenase” (PaO) pathway of chlorophyll degradation. \cite{Matile1999}}
+	\label{fig1}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics{figura2}
+	\caption{The “pheophorbide a (PaO) pathway” of chlorophyll degradation in senescent leaves \cite{Matile1999}}
+	\label{fig2}
+\end{figure}
+
 
 
 
