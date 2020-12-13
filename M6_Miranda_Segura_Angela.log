@@ -1,0 +1,695 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.11.20)  13 DEC 2020 21:12
+entering extended mode
+**./M6_Miranda_Segura_Angela.tex
+(M6_Miranda_Segura_Angela.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+"
+Package: babel 2020/03/22 3.42 The Babel package
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.de
+f"
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\eng
+lish.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+"
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
+def")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count176
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language76) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language76) on input line 108.
+))
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.st
+y"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count177
+\Gm@cntv=\count178
+\c@Gm@tempcnt=\count179
+\Gm@bindingoffset=\dimen136
+\Gm@wd@mp=\dimen137
+\Gm@odd@mp=\dimen138
+\Gm@even@mp=\dimen139
+\Gm@layoutwidth=\dimen140
+\Gm@layoutheight=\dimen141
+\Gm@layouthoffset=\dimen142
+\Gm@layoutvoffset=\dimen143
+\Gm@dimlist=\toks18
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg"))
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow
+.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count180
+\multirow@dima=\skip50
+\bigstrutjot=\dimen144
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.s
+ty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count181
+\LTcapwidth=\dimen145
+\LT@head=\box45
+\LT@firsthead=\box46
+\LT@foot=\box47
+\LT@lastfoot=\box48
+\LT@cols=\count182
+\LT@rows=\count183
+\c@LT@tables=\count184
+\c@LT@chunks=\count185
+\LT@p@ftn=\toks19
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\dvipsnam
+.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bibtex\apalike.
+sty"
+\bibhang=\skip55
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathtoo
+ls.sty"
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count186
+\calc@Bcount=\count187
+\calc@Adimen=\dimen146
+\calc@Bdimen=\dimen147
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count188
+\calc@Cskip=\skip58
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetup
+.sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen148
+))
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count189
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count190
+\leftroot@=\count191
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count192
+\DOTSCASE@=\count193
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count194
+\c@MaxMatrixCols=\count195
+\dotsspace@=\muskip16
+\c@parentequation=\count196
+\dspbrk@lvl=\count197
+\tag@help=\toks21
+\row@=\count198
+\column@=\count199
+\maxfields@=\count266
+\andhelp@=\toks22
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks23
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count267
+\l_MT_multwidth_dim=\dimen157
+\origjot=\skip62
+\l_MT_shortvdotswithinadjustabove_dim=\dimen158
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen159
+\l_MT_above_intertext_sep=\dimen160
+\l_MT_below_intertext_sep=\dimen161
+\l_MT_above_shortintertext_sep=\dimen162
+\l_MT_below_shortintertext_sep=\dimen163
+\xmathstrut@box=\box51
+\xmathstrut@dim=\dimen164
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr
+.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip63
+\f@nch@O@elh=\skip64
+\f@nch@O@erh=\skip65
+\f@nch@O@olh=\skip66
+\f@nch@O@orh=\skip67
+\f@nch@O@elf=\skip68
+\f@nch@O@erf=\skip69
+\f@nch@O@olf=\skip70
+\f@nch@O@orf=\skip71
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
+nd-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count268
+\l__pdf_internal_box=\box52
+) (M6_Miranda_Segura_Angela.aux)
+\openout1 = `M6_Miranda_Segura_Angela.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen167
+\scratchbox=\box53
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen168
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks26
+)
+("C:\Users\ANGELA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
+opdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Underfull \vbox (badness 7704) has occurred while \output is active []
+
+ [1{C:/Users/ANGELA/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\OT1/cmr/bx/n/12 Catabolic En-zymes and
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 50--51
+\OT1/cmr/m/n/10.95 Chlis-not-de-phyty-lat-e-dun less the mem-
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 50--51
+\OT1/cmr/m/n/10.95 break-down in senes-cent leaves Chlase
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 50--51
+\OT1/cmr/m/n/10.95 as ki-netic pa-ram-e-ters, de-pen-den-cies on
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 50--51
+\OT1/cmr/m/n/10.95 pH and tem-per-a-ture,and so forth are
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 50--51
+\OT1/cmr/m/n/10.95 thethy-lakoid pigment-protein com-plexes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 52--53
+[]\OT1/cmr/m/n/10.95 P1: PSA/ary P2: NBL/vks QC:
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 An-nual Re-views AR082-0476 MATILE,
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 HORT-EN-STEINER & THOMASChlase
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 is a hy-dropho-bic pro-tein of plas-tid
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 func-tional la-tency: In prepa-ra-tions of
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 chloro-plast mem-branes Chlis-not-de-phyty-
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 Chlase re-mains la-tent. Hence,all the
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 prop-er-ties of Chlase de-ter-mined un-der
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 thethy-lakoid pigment-protein com-plexes
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 to molec-u-lar cloning. Suchun-ex-pected
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 chloro-plast en-ve-lope mem-branes.Under
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[]\OT1/cmr/bx/n/10.95 PHEOPHORBIDE $\OML/cmm/m/it/10.95 $ \OT1/cmr/bx/n/10.95 
+OXY-GE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 56--57
+\OT1/cmr/m/n/10.95 color. The first iden-ti-fi-able col-or-less
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 56--57
+\OT1/cmr/m/n/10.95 prod-uct, pFCC (2[]) is for-mally de-rived
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 56--57
+\OT1/cmr/m/n/10.95 Pheide a oxy-ge-nase (PaO), and yields
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 58--59
+\OT1/cmr/m/n/10.95 the lac-tam oxy-gen at C4 is prob-a-bly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+\OT1/cmr/m/n/10.95 monooxygenase-catalyzed ring open-ing
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 58--59
+\OT1/cmr/m/n/10.95 for-ma-tion, fol-lowed by hy-drol-y-sis and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \vbox (badness 3000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 61--62
+\OT1/cmr/m/n/10.95 gen-er-ated bypho-to-sys-tem I, whereas in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+\OT1/cmr/m/n/10.95 pentose-phosphate-cycle and glucose-6-
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 61--62
+\OT1/cmr/m/n/10.95 ferre-doxin,are re-tained or even newly
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 61--62
+\OT1/cmr/m/n/10.95 syn-the-sized as long as Chl break-down
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 63--64
+[]\OT1/cmr/m/n/10.95 Among the prop-er-ties of PaO, the
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 63--64
+\OT1/cmr/m/n/10.95 is note-wor-thy be-cause it ex-plains the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 65--66
+[]\OT1/cmr/m/n/10.95 So far,the ac-tiv-ity of PaO has been
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \vbox (badness 3000) has occurred while \output is active []
+
+ [3]
+Underfull \hbox (badness 1189) in paragraph at lines 71--72
+\OT1/cmr/m/n/10.95 meta-bolism. Reg-u-la-tion of the lev-els
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 73--74
+\OT1/cmr/m/n/10.95 lim-i-nary in-for-ma-tion about the mech-a-
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 76--77
+\OT1/cmr/m/n/10.95 by chloro-phyl so-lu-tions us-ing dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 78--79
+\OT1/cmr/m/n/10.95 dis-tilled an-hy-drous C.P. ace-tone). To
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+[4] (M6_Miranda_Segura_Angela.bbl) [5]
+<figura4.png, id=27, 337.26pt x 440.39531pt>
+File: figura4.png Graphic file (type png)
+<use figura4.png>
+Package pdftex.def Info: figura4.png  used on input line 99.
+(pdftex.def)             Requested size: 337.25917pt x 440.39423pt.
+
+Underfull \vbox (badness 10000) detected at line 126
+ []
+
+[6
+
+] [7 <./figura4.png>]
+<figura1.jpg, id=36, 257.46187pt x 376.40625pt>
+File: figura1.jpg Graphic file (type jpg)
+<use figura1.jpg>
+Package pdftex.def Info: figura1.jpg  used on input line 134.
+(pdftex.def)             Requested size: 257.46123pt x 376.40532pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]\OT1/cmr/m/n/10.95 Figure 2: Struc-ture-sofin-ter-me-di-ary and-fi-nalChlcata
+bo-lites
+ []
+
+<figura2.png, id=37, 255.20343pt x 376.40625pt>
+File: figura2.png Graphic file (type png)
+<use figura2.png>
+Package pdftex.def Info: figura2.png  used on input line 141.
+(pdftex.def)             Requested size: 255.2028pt x 376.40532pt.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[8 <./figura1.jpg>] [9 <./figura2.png>] (M6_Miranda_Segura_Angela.aux) ) 
+Here is how much of TeX's memory you used:
+ 4374 strings out of 480898
+ 63491 string characters out of 2897826
+ 345618 words of memory out of 3000000
+ 20204 multiletter control sequences out of 15000+200000
+ 539061 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,11n,45p,1846b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Use
+rs/ANGELA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+10.pfb><C:/Users/ANGELA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Users/ANGELA/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ANGELA/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ANGELA/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ANGELA/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
+sers/ANGELA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r17.pfb><C:/Users/ANGELA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><C:/Users/ANGELA/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ANGELA/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ANGELA/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on M6_Miranda_Segura_Angela.pdf (9 pages, 342288 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
